@@ -1,5 +1,5 @@
 {
-    "name": "souhail/laravel-http2-push",
+    "name": "souhail/laravel-http2-push2",
     "description": "A cache aware provider for HTTP2 Push within a Laravel application",
     "keywords": [
         "laravel",

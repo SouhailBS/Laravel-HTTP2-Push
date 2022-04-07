@@ -1,5 +1,5 @@
 {
-    "name": "tomkeyte/laravel-http2-push",
+    "name": "souhail/laravel-http2-push",
     "description": "A cache aware provider for HTTP2 Push within a Laravel application",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "push",
         "seo"
     ],
-    "homepage": "https://github.com/tomkeyte/laravel-http2-push",
+    "homepage": "https://github.com/souhail/laravel-http2-push",
     "license": "MIT",
     "type": "library",
     "authors": [
